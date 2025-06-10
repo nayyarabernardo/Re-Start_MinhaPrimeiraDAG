@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Bootcamp [Re]Start - Data Girls! — Aula: Pipelines de Dados com Airflow
+# 👩🏽‍💻 Bootcamp [Re]Start - Data Girls! — Pipelines de Dados com Airflow
 
 Seja bem-vinda! 💜
 
@@ -167,5 +167,3 @@ Me chama no LinkedIn ou abra uma issue aqui no GitHub! Vamos juntas 💜
 
 Com carinho,
 **Nayara Bernardo**
-
-```
