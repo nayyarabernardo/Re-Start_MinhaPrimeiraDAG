@@ -1,8 +1,3 @@
-Seu `README.md` já está muito bem escrito e estruturado! Abaixo, fiz pequenas **correções gramaticais e melhorias de fluidez**, além de padronizações no estilo para manter o texto mais claro e acolhedor para quem está começando. Também corrigi a descrição da DAG no passo 6, que menciona tarefas `inicio_processo`, `coleta_dados` etc., mas sua DAG atual é apenas `tarefa_simples`. Se quiser manter as outras tarefas no gráfico, é só atualizar a DAG correspondente.
-
----
-
-````markdown
 # 👩🏽‍💻 Bootcamp [Re]Start - Data Girls! — Aula: Pipelines de Dados com Airflow
 
 Seja bem-vinda! 💜
